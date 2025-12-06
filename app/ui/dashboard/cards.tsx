@@ -48,7 +48,7 @@ export function Card({
       </div>
 
         
-=======
+
       <p>
         {value}
       </p>
