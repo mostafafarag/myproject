@@ -1281,6 +1281,10 @@ select {
   text-align: left;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .align-middle {
   vertical-align: middle;
 }
