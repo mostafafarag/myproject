@@ -1,18 +1,7 @@
 node_modules/
-<<<<<<< HEAD
-
-echo node_modules/ > .gitignore
-echo .next/ >> .gitignore
-echo dist/ >> .gitignore
-echo out/ >> .gitignore
-echo .env >> .gitignore
-echo .vercel/ >> .gitignore
-
-
-=======
 .next/
 dist/
 out/
 pnpm-lock.yaml
 .env
->>>>>>> b63e82e9d209e8ae1a2ff6515cd6df16d9b4850c
+.vercel/
